@@ -7,7 +7,7 @@ Jamboree has been instrumental in aiding thousands of students secure admissions
 The purpose of this analysis is to identify key factors influencing graduate admissions and understand their interrelationships. This will assist Jamboree in refining their admission probability estimation tool, thereby enabling accurate predictions for prospective students.
 
 ## Dataset
-- **Download**: [jamboree_admission.csv](jamboree_admission.csv)
+- **Download**: [jamboree_admission.csv] -- in the repo
 
 ### Column Profiling
 - **Serial No.**: Unique row ID
